@@ -1,5 +1,9 @@
 📊 Amazon India Sales Analysis (2025) – Power BI Dashboard
 
+
+
+![](dash.png)
+
 A full-year (12 months) e-commerce analytics dashboard built using Power BI, based on a synthetic dataset of 15,000 Amazon India transactions.
 This project uncovers insights into customer behavior, product performance, payment trends, delivery patterns, and regional contributions.
 
